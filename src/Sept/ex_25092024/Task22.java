@@ -4,7 +4,7 @@ public class Task22 {
 
     public static void main(String[] args)
     {
-        String s="TOMCY SEBASTIAN";
+        String s="pramod";
         int vowels=0, consonants=0;
 
         for(int i=0;i<s.length();i++)
