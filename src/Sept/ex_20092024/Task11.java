@@ -8,7 +8,7 @@ package Sept.ex_20092024;
 
 import java.util.Scanner;
 
-public class Task14 {
+public class Task11 {
     public static void main(String[] args)
     {
        int a,b,c;
