@@ -1,6 +1,6 @@
 package Sept.ex_27092024;
 
-//Give me example of while vs do while loop in Lab ex.
+//Give me example of while vs do while loop.
 public class Task23 {
     public static void main(String[] args)
     {

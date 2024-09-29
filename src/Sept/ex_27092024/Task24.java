@@ -1,5 +1,5 @@
 package Sept.ex_27092024;
-//// Create a Java program that prints the first 5 even numbers using a do-while loop.
+// Create a Java program that prints the first 5 even numbers using a do-while loop.
 public class Task24 {
     public static void main(String[] args)
     {
